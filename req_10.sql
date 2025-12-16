@@ -1,5 +1,6 @@
+
 /* Quels sont les utilisateurs ayant laissé un avis sur chaque application qu’ils ont achetée ? */
-f
+
 
 SELECT
     U.id,
